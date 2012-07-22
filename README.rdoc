@@ -1,0 +1,3 @@
+# Starsites: Demo App
+
+This is the Demo App for Starsites(http://starsites.zxq.net)
